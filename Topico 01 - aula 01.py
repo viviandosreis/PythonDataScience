@@ -224,7 +224,8 @@ if(idade > 90):
 else:
     if(idade > 10):
         print("um pouco velho")
-#ou
+
+#outra forma de escrever a função acima:
 
 if(idade > 90):
     print("Você é muito velho")
